@@ -77,7 +77,7 @@
     "file-operations"
   ],
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.9.0",
+    "@modelcontextprotocol/sdk": "^1.21.0",
     "@opendocsg/pdf2md": "^0.2.2",
     "@vscode/ripgrep": "^1.15.9",
     "cross-fetch": "^4.1.0",
